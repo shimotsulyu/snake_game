@@ -1,5 +1,6 @@
 
 # SNAKE_GAME
+![Captura de tela de 2021-05-19 14-38-56](https://user-images.githubusercontent.com/59963253/118859734-f2ab4e80-b8b0-11eb-9d42-96a5643337e2.png)
 
 ## FUNCIONAMENTO
 
